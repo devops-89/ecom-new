@@ -9,12 +9,24 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^9.4.0",
+    "@mui/material": "^9.4.0",
+    "aos": "^2.3.4",
+    "formik": "^2.4.9",
+    "mui-tel-input": "^11.0.0",
     "next": "16.3.4",
     "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "react-country-flag": "^3.1.0",
+    "react-dom": "19.2.8",
+    "react-icons": "^5.7.0",
+    "yup": "^1.7.1",
+    "zustand": "^5.0.15"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/aos": "^3.0.8",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
